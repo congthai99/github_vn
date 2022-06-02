@@ -25,3 +25,5 @@ Remote
 - git remote add origin {repo url}
 - git push origin {branch name}
 - git clone {repo url}
+- git fetch origin
+- git checkout -b {branch name} origin/{branch name}
