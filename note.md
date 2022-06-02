@@ -22,3 +22,6 @@ Remote
 - git branch -d {branch name}
 - git push
 - git pull
+- git remote add origin {repo url}
+- git push origin {branch name}
+- git clone {repo url}
