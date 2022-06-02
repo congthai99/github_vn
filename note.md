@@ -21,3 +21,4 @@ Remote
 - git merge {branch name}
 - git branch -d {branch name}
 - git push
+- git pull
